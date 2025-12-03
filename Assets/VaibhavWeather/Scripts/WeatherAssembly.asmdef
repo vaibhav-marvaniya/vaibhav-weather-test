@@ -1,0 +1,16 @@
+{
+    "name": "WeatherAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8435b3bc343748e47961f41ed5dfa962"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
